@@ -229,5 +229,3 @@ yapf==0.40.1
 yarl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a5sx8bz_hq/croots/recipe/yarl_1661437083380/work
 zhconv==1.4.3
 zipp==3.16.2
-
-requests~=2.31.0
